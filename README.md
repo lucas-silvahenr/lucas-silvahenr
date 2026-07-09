@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Developers%20and%20artists%20are%20the%20only%20professionals%20whose%20hobby%20is%20their%20very%20own profession.&author=Rafael%20Lain" align="center" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Developers%20and%20artists%20are%20the%20only%20professionals%20whose%20hobby%20is%20their%20very%20own%20profession.&author=Rafael%20Lain" align="center" />
 </div>
 
 ### <div align="center"> Hello, I'm Lucas Henrique 👋 </div>  
